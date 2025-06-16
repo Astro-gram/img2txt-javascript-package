@@ -14,4 +14,4 @@ const client = new Img2TxtClient("API_KEY_HERE");
     } catch (error) {
         console.error('Error generating image:', error);
     }
-})();
+})(); 
