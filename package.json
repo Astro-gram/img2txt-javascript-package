@@ -16,6 +16,9 @@
         "vision",
         "ai",
         "sdk",
+        "package",
+        "api",
+        "text-extraction",
         "javascript",
         "typescript",
         "client"
@@ -24,12 +27,12 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Astro-gram/img2txt-javascript-sdk.git"
+        "url": "git+https://github.com/Astro-gram/img2txt-javascript-package.git"
     },
     "bugs": {
-        "url": "https://github.com/Astro-gram/img2txt-javascript-sdk/issues"
+        "url": "https://github.com/Astro-gram/img2txt-javascript-package/issues"
     },
-    "homepage": "https://github.com/Astro-gram/img2txt-javascript-sdk#readme",
+    "homepage": "https://github.com/Astro-gram/img2txt-javascript-package#readme",
     "files": [
         "dist"
     ],
