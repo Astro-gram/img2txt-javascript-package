@@ -11,8 +11,8 @@ npm install img2txtio
 Or install directly from source:
 
 ```bash
-git clone https://github.com/Astro-gram/img2txt-javascript-sdk.git
-cd img2txt-javascript-sdk
+git clone https://github.com/Astro-gram/img2txt-javascript-package.git
+cd img2txt-javascript-package
 pip install .
 ```
 
